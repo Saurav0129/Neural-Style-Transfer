@@ -31,6 +31,12 @@ This project implements Neural Style Transfer using a pre-trained **VGG19** mode
 
 ## 🖌️ Example
 
+### Example-1 
+![Example-1](./resources/Output/Generated%20Image-1.png)
+
+### Example-2 
+![Example-2](./resources/Output/Generated%20Image-2.png)
+
 ---
 
 ## 🚀 Getting Started
